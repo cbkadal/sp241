@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (C) 2020-2024 Cicak Bin Kadal
+# Copyright (C) 2020-2024 BinKadal, Sdn. Bhd.
 
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 

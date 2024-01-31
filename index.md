@@ -6,4 +6,4 @@
 
 [MYLOG](TXT/mylog.txt) --- [GitHub Site](https://github.com/cbkadal/sp241/) --- [GitHub Page](https://cbkadal.github.io/sp241/) 
 
-##### REV01: Tue 31 Jan 2024 16:00
+##### REV02: Tue 31 Jan 2024 17:00
