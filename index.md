@@ -2,7 +2,7 @@
 ---
 # System Programming 2024-1 (SP241)
 
-## CBKADAL (TBA)
+## CBKADAL
 
 [MYLOG](TXT/mylog.txt) --- [GitHub Site](https://github.com/cbkadal/sp241/) --- [GitHub Page](https://cbkadal.github.io/sp241/) 
 
@@ -13,5 +13,5 @@ wget -c https://cbkadal.github.io/sp241/SandBox/cbkadal.tar.xz
 
 ```
 
-##### REV03a: Sun 04 Feb 2024 16:00
+##### REV03b: Sun 04 Feb 2024 16:00
 
