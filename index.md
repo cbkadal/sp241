@@ -6,4 +6,12 @@
 
 [MYLOG](TXT/mylog.txt) --- [GitHub Site](https://github.com/cbkadal/sp241/) --- [GitHub Page](https://cbkadal.github.io/sp241/) 
 
-##### REV02: Tue 31 Jan 2024 17:00
+### To Get CBKADAL's TARBALL:
+
+```
+wget -c https://cbkadal.github.io/sp241/SandBox/cbkadal.tar.xz
+
+```
+
+##### REV03: Sun 04 Feb 2024 16:00
+
