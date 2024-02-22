@@ -1,17 +1,13 @@
 ZCZC W02 20 L00 General, etc.
 ZCZC W02 20 L01 SCELE/Discord related
-<<<<<<< HEAD
-ZCZC W02 70 L02 CLASSROOM/ZOOM meetings related
-=======
 ZCZC W02 90 L02 CLASSROOM/ZOOM meetings related
->>>>>>> 27fc747c2da3939dd4bd44d0a4a35d81ec7af801
 ZCZC W02 10 L03 GitHub related
 ZCZC W02 10 L04 GitHub Pages related
 ZCZC W02 10 L05 QUIZ
 ZCZC W02 60 L09 Weekly Assignments
 ZCZC W01 20 L00 General, etc.
 ZCZC W01 20 L01 SCELE/Discord related
-ZCZC W01 70 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 90 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 10 L03 GitHub related
 ZCZC W01 10 L04 GitHub Pages related
 ZCZC W01 10 L05 QUIZ
