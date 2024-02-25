@@ -13,5 +13,5 @@ wget -c https://cbkadal.github.io/sp241/SandBox/cbkadal.tar.xz
 
 ```
 
-##### REV23: Thu 22 Feb 2024 12:00
+##### REV24: Sun 25 Feb 2024 15:00
 
